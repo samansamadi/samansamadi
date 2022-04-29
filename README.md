@@ -2,7 +2,7 @@
 
 #### I know myself as a junior Android developer
 
-- 😆 I'm 20 and already have 4 years of professional Android development
+- 😆 I'm 20 and already have 4+ years of professional Android development
 - 🤩 I'm currently working on a crypto market data app (which I handle server side as well)
 - 🤖 One of my main passions and strengths is UI designing. I think that it's a very subtle art
 - 🥰 I love working with `.kt` and `.java` and `.xml` files (Especially Kotlin 💯)
