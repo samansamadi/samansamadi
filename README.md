@@ -1,6 +1,6 @@
 ### Hi there, it's Saman speaking 👋
 
-#### I know myself as a junior Android developer
+#### I like to think myself as a mid-level Android developer
 
 - 😆 I'm 20 and already have 4+ years of professional Android development
 - 🤩 I'm currently working on a crypto market data app (which I handle server side as well)
