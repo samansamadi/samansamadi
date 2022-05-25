@@ -1,18 +1,16 @@
 ### Hi there, it's Saman speaking 👋
 
-#### I like to think myself as a mid-level Android developer
-
-- 😆 I'm 20 and already have 4+ years of professional Android development
-- 🤩 I'm currently working on a crypto market data app (which I handle server side as well)
-- 🤖 One of my main passions and strengths is UI designing. I think that it's a very subtle art
-- 🥰 I love working with `.kt` and `.java` and `.xml` files (Especially Kotlin 💯)
-- 🤔 I'm planning to learn Robot framework and Automated Testing as soon as I finish my current projects
-- 🤠 I like to travel all around the world :) (well as soon as I have free time😩)
+- One of my main passions and strengths is UI designing. I think that it's a very subtle art
+- I love working with `.kt` and `.java` and `.xml` files (Especially Kotlin 💯)
+- I'm planning to learn Robot framework and Automated Testing as soon as I finish my current projects
 - 🎃 You can look at some of my old works on <a href="https://dribbble.com/samansamadi">Dribbble</a>
 - ✉️ Feel free to ask me anything (Suggestions, criticism, etc) throughout my email :) => saman.samady67@outlook.com
 - 🤝 I don't have so much contributions on <a href="https://stackoverflow.com/users/9612643/saman">Stackoverflow</a> but you are free to check my profile
 
-#### 2022 is gonna be good for me. I know it 👁
+### RoadMap
+- Learning automated testing and robot framework
+- Dive deep into app security in Android
+- Mastering Jetpack Compose
 
 
 <!--
