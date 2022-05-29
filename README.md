@@ -2,12 +2,11 @@
 
 - One of my main passions and strengths is UI designing. I think that it's a very subtle art
 - I love working with `.kt` and `.java` and `.xml` files (Especially Kotlin 💯)
-- I'm planning to learn Robot framework and Automated Testing as soon as I finish my current projects
-- 🎃 You can look at some of my old works on <a href="https://dribbble.com/samansamadi">Dribbble</a>
-- ✉️ Feel free to ask me anything (Suggestions, criticism, etc) throughout my email :) => saman.samady67@outlook.com
-- 🤝 I don't have so much contributions on <a href="https://stackoverflow.com/users/9612643/saman">Stackoverflow</a> but you are free to check my profile
+-  You can look at some of my old works on <a href="https://dribbble.com/samansamadi">Dribbble</a>
+- Feel free to ask me anything (Suggestions, criticism, etc) throughout my email :) => saman.samady67@outlook.com
+-  I don't have so much contributions on <a href="https://stackoverflow.com/users/9612643/saman">Stackoverflow</a> but you are free to check my profile
 
-### RoadMap
+## RoadMap
 - Learning automated testing and robot framework
 - Dive deep into app security in Android
 - Mastering Jetpack Compose
